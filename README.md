@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 
+<div align="center">
+  <h1 align="center">Hola, soy Eduardo👋</h1>
+</div>
 <!--
 **Sori18B/Sori18B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
