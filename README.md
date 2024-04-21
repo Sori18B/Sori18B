@@ -2,6 +2,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Eduardo👋</h1>
 </div>
+<img src="https://github.com/Sori18B/Sori18B/blob/efaf1fa567f6a330488252d064cc40685490a1a4/GITHUB%20PRESENTATION.png">
 <!--
 **Sori18B/Sori18B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
