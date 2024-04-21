@@ -29,7 +29,7 @@
 <p align="center">Herramientas que se usar:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vscode,visualstudio,postman,ai,figma,arduino" />
+    <img src="https://skillicons.dev/icons?i=aws,vscode,visualstudio,postman" />
   </a>
 </p>
 
