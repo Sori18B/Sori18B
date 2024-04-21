@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 align="center">Hola, soy Eduardo👋</h1>
+  <h1 align="center">Hola, bienvenido a mi perfil👋</h1>
 </div>
 <img src="https://github.com/Sori18B/Sori18B/blob/efaf1fa567f6a330488252d064cc40685490a1a4/GITHUB%20PRESENTATION.png">
 
