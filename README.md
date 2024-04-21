@@ -4,7 +4,16 @@
 </div>
 <img src="https://github.com/Sori18B/Sori18B/blob/efaf1fa567f6a330488252d064cc40685490a1a4/GITHUB%20PRESENTATION.png">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react&perline=2)](https://skillicons.dev)
+<h1 align="center">Mis habilidades:</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,cs,css,dotnet,figma,firebase" />
+  </a>
+</p>
+
+
+
+
 <!--
 **Sori18B/Sori18B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
