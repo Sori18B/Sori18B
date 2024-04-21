@@ -12,9 +12,26 @@
   </a>
 </p>
 
+<p align="center">Lenguajes de programación:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,php,,cs,py" />
+  </a>
+</p>
 
+<p align="center">Frameworks:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,dotnet" />
+  </a>
+</p>
 
-
+<p align="center">Herramientas que se usar:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,vscode,visualstudio,postman,ai,figma,arduino" />
+  </a>
+</p>
 <!--
 **Sori18B/Sori18B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
