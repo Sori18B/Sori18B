@@ -7,7 +7,7 @@
 <p align="center">Sobre mí:</p>
 <p align="center">Soy </p>
 <p align="center">Contacto:</p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=gmail, linkedin, facebook" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=gmail,linkedin" /> </a> </p>
 
 <h1 align="center">Mis conocimientos:</h1>
 <p align="center">Bases de datos:</p>
