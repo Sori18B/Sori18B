@@ -3,12 +3,12 @@
   <h1 align="center">Hola, bienvenido a mi perfil👋</h1>
 </div>
 <img src="https://github.com/Sori18B/Sori18B/blob/efaf1fa567f6a330488252d064cc40685490a1a4/GITHUB%20PRESENTATION.png">
-
+<!--
 <p align="center">Sobre mí:</p>
 <p align="center">Soy </p>
 <p align="center">Contacto:</p>
 <p align="center"> <a href="https://www.instagram.com/sori19.js/"> <img src="https://skillicons.dev/icons?i=instagram" /> </p>
-<p align="center"> <a href="https://mail.google.com/mail/u/2/#inbox"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>  </p>
+-->
 
 
 <h1 align="center">Mis conocimientos:</h1>
