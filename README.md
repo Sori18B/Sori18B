@@ -38,7 +38,8 @@
 <p align="center">Extras:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ai,figma,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,windowsai,figma,arduino" />
+    <img src="https://skillicons.dev/icons?i=ai,figma,arduino" />
   </a>
 </p>
 <!--
