@@ -7,7 +7,9 @@
 <p align="center">Sobre mí:</p>
 <p align="center">Soy </p>
 <p align="center">Contacto:</p>
-<p align="center"> <a href="https://www.instagram.com/sori19.js/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="linkedin.com/in/sori19"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+<p align="center"> <a href="https://www.instagram.com/sori19.js/"> <img src="https://skillicons.dev/icons?i=instagram" /> </p>
+<p align="center"> <a href="linkedin.com/in/sori19"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>  </p>
+
 
 <h1 align="center">Mis conocimientos:</h1>
 <p align="center">Bases de datos:</p>
