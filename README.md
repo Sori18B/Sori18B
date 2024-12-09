@@ -41,8 +41,8 @@
 </p>
 
 <p align="center">Extras:</p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,windows" /> </a> </p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ai,figma,arduino" /></a></p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma" /></a></p>
 <!--
 **Sori18B/Sori18B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
