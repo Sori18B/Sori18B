@@ -29,7 +29,7 @@
 <p align="center">Frameworks/Librerias:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,dotnet" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,dotnet, angular" />
   </a>
 </p>
 
