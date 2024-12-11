@@ -11,7 +11,7 @@
 -->
 
 
-<h1 align="center">Mis conocimientos:</h1>
+<h1 align="center">Tecnologías:</h1>
 <p align="center">Bases de datos:</p>
 <p align="center">
   <a href="https://skillicons.dev">
