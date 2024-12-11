@@ -37,7 +37,7 @@
 <p align="center">Herramientas:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,figma&theme=light" />
   </a>
 </p>
 
