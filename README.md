@@ -21,28 +21,24 @@
 
 <p align="center">Lenguajes de programación:</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,cs,py" /></a>
 </p>
 
 <p align="center">Frameworks/Librerias:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,dotnet" />
+    <img src="https://skillicons.dev/icons?i=react,angular,dotnet,bootstrap" />
   </a>
 </p>
 
-<p align="center">Herramientas que se usar:</p>
+<p align="center">Herramientas:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vscode,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,figma" />
   </a>
 </p>
 
-<p align="center">Extras:</p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux" /> </a> </p>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma" /></a></p>
 <!--
 **Sori18B/Sori18B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
