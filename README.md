@@ -15,22 +15,22 @@
 <p align="center">Bases de datos:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=light" />
   </a>
 </p>
 
 <p align="center">Lenguajes de programación:</p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=light" /></a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,cs,py" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,cs,py&theme=light" /></a>
 </p>
 
 <p align="center">Frameworks/Librerias:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,dotnet,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,angular,dotnet,bootstrap&theme=light" />
   </a>
 </p>
 
