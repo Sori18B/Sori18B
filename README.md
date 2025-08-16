@@ -30,7 +30,7 @@
 <p align="center">Frameworks:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,dotnet,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,angular,dotnet, nest,bootstrap&theme=light" />
   </a>
 </p>
 
